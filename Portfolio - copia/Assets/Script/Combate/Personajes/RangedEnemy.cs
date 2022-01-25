@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class RangedEnemy : Fighter
 {
-    private void Start()
+    private void Awake()
     {
         speed = 2;
         lvl = 3;
-        currentHealth = 50;
+        dmg = 20;
+        critProb = 12.5f;
+        currentHealth = 100;
         name = "juan";
         lvlUI.text = "lvl: " + lvl;
         nameUI.text = name;

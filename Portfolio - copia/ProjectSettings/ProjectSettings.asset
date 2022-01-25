@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: cc7f997954d8a7441bef1e8cfe0c4cf0
+  productGUID: 10e95cf3e0efdbd4ab0e55930577cb5c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -542,7 +542,7 @@ PlayerSettings:
   ps5BGMPath: 
   ps5ShareOverlayImagePath: 
   ps5NPConfigZipPath: 
-  ps5Passcode: F69AzBlax3CF3EDNhm3soLBPh71Yexui
+  ps5Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
   ps5UseResolutionFallback: 0
   ps5UseAudio3dBackend: 0
   ps5ScriptOptimizationLevel: 2
